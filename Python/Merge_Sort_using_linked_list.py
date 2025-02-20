@@ -71,3 +71,6 @@ if __name__ == "__main__":
     print(l1)
     l1 = merge_sort(l1)
     print(l1)
+
+def new_method():
+    pass
